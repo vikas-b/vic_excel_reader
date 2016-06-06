@@ -2,5 +2,8 @@
 	"name":"vic/vic_excel_reader",
 	"license": "MIT",
     "type": "project",
-    "description": "Just Excel Reader "
+    "description": "Just Excel Reader",
+    "autoload": {
+        "files": ["lib/VIC/EXCEL/READER/XLSReader.php", "lib/VIC/EXCEL/READER/XLSXReader.php"]
+    }
 }
