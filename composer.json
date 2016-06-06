@@ -1,5 +1,5 @@
 {
-	"name":"Vic Excel Reader",
+	"name":"vic_excel_reader/vic_excel_reader",
 	"license": "MIT",
     "type": "project",
     "description": "Just Excel Reader "
